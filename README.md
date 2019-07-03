@@ -28,7 +28,7 @@ World : Build up your own world
 You can create your own world by generating a .world file in ${your ROS workspace}/src/tm_gazebo/worlds
 
 In a .world file, the architecture of if will be like to gazebo sdf file. You can reference to testing_world.world .
-```xml=
+```xml
 <?xml version="1.0" ?>
 <sdf version="1.4" >
   <world name="default">
